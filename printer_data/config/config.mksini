@@ -1,0 +1,54 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 220
+heaterbed                      = 80
+hot                            = 60
+
+
+[babystep]
+value                          = 0.000
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 1
+
+
+[app_connection]
+method                         = 1
+
+
+[app_server]
+name                           = aws
+
+
+[device_code]
+value                          = zpfrac6d
+
+
+[device_state]
+state                          = paused_0.00
+
+
+[app]
+token                          = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrX25hbWUiOiJHU0NBUk1BTiIsInVzZXJfaWQiOiIxOTUwMzc3NDgzMjk5NzE3MTIiLCJpYXQiOjE3MzM4OTI4NjcsImV4cCI6MTczNDQ5NzY2N30.ranIscgjDcT5Ycxx5Zb3FXLIc6pON4nmUnZN8VPm0Eg
+username                       = GSCARMAN
+avatar                         = 
+
+
+[total]
+time                           = 10276
+
+
+[led]
+enable                         = 1
+
+
