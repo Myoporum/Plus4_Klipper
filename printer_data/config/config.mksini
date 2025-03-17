@@ -35,7 +35,7 @@ value                          = zpfrac6d
 
 
 [device_state]
-state                          = paused_0.00
+state                          = complete_1.00
 
 
 [app]
@@ -45,10 +45,10 @@ avatar                         =
 
 
 [total]
-time                           = 10276
+time                           = 10284
 
 
 [led]
-enable                         = 1
+enable                         = 0
 
 
