@@ -35,7 +35,7 @@ value                          = jclde8cs
 
 
 [device_state]
-state                          = standby_0.00
+state                          = complete_1.00
 
 
 [app]
@@ -45,10 +45,10 @@ avatar                         =
 
 
 [total]
-time                           = 10749
+time                           = 10775
 
 
 [led]
-enable                         = 0
+enable                         = 1
 
 
