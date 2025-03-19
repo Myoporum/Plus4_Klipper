@@ -31,11 +31,11 @@ name                           = aws
 
 
 [device_code]
-value                          = jclde8cs
+value                          = juj5urfu
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_0.00
 
 
 [app]
@@ -45,7 +45,7 @@ avatar                         =
 
 
 [total]
-time                           = 10775
+time                           = 11132
 
 
 [led]
