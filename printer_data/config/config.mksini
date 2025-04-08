@@ -5,7 +5,7 @@ enable                         = 1
 
 [target]
 extruder                       = 220
-heaterbed                      = 80
+heaterbed                      = 100
 hot                            = 60
 
 
@@ -31,7 +31,7 @@ name                           = aws
 
 
 [device_code]
-value                          = v0bhb41p
+value                          = fnwgf9hy
 
 
 [device_state]
@@ -45,7 +45,7 @@ avatar                         =
 
 
 [total]
-time                           = 11132
+time                           = 11463
 
 
 [led]
