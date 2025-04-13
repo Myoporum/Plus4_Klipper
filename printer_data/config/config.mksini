@@ -31,7 +31,7 @@ name                           = aws
 
 
 [device_code]
-value                          = pazws9et
+value                          = 27kqbwtm
 
 
 [device_state]
@@ -45,10 +45,10 @@ avatar                         =
 
 
 [total]
-time                           = 11774
+time                           = 11856
 
 
 [led]
-enable                         = 1
+enable                         = 0
 
 
