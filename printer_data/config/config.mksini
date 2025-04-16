@@ -5,8 +5,8 @@ enable                         = 1
 
 [target]
 extruder                       = 220
-heaterbed                      = 100
-hot                            = 60
+heaterbed                      = 90
+hot                            = 55
 
 
 [babystep]
@@ -45,7 +45,7 @@ avatar                         =
 
 
 [total]
-time                           = 11856
+time                           = 11877
 
 
 [led]
