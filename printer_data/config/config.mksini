@@ -4,9 +4,9 @@ enable                         = 1
 
 
 [target]
-extruder                       = 220
-heaterbed                      = 90
-hot                            = 55
+extruder                       = 230
+heaterbed                      = 100
+hot                            = 60
 
 
 [babystep]
@@ -30,22 +30,20 @@ method                         = 1
 name                           = aws
 
 
-[device_code]
-value                          = b05vwr9w
-
-
-[device_state]
-state                          = printing_0.00
-
-
-[app]
-token                          = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrX25hbWUiOiJHU0NBUk1BTiIsInVzZXJfaWQiOiIxOTUwMzc3NDgzMjk5NzE3MTIiLCJpYXQiOjE3MzM4OTI4NjcsImV4cCI6MTczNDQ5NzY2N30.ranIscgjDcT5Ycxx5Zb3FXLIc6pON4nmUnZN8VPm0Eg
-username                       = GSCARMAN
-avatar                         = 
+[mks_file_picture_refresh]
+enable                         = 1
 
 
 [total]
-time                           = 11877
+time                           = 950
+
+
+[device_code]
+value                          = k0qb1c56
+
+
+[device_state]
+state                          = standby_0.00
 
 
 [led]
