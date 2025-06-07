@@ -43,7 +43,7 @@ value                          = e6edhars
 
 
 [device_state]
-state                          = printing_0.84
+state                          = printing_0.85
 
 
 [led]
