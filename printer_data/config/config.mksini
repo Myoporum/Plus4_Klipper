@@ -35,7 +35,7 @@ enable                         = 1
 
 
 [total]
-time                           = 1368
+time                           = 1416
 
 
 [device_code]
@@ -43,7 +43,7 @@ value                          = uuel19ms
 
 
 [device_state]
-state                          = printing_0.98
+state                          = printing_0.99
 
 
 [led]
