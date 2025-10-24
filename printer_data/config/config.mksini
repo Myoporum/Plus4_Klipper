@@ -4,9 +4,9 @@ enable                         = 1
 
 
 [target]
-extruder                       = 230
-heaterbed                      = 100
-hot                            = 50
+extruder                       = 210
+heaterbed                      = 110
+hot                            = 45
 
 
 [babystep]
@@ -35,11 +35,11 @@ enable                         = 1
 
 
 [total]
-time                           = 1531
+time                           = 12944
 
 
 [device_code]
-value                          = uuel19ms
+value                          = shw6cnpn
 
 
 [device_state]
@@ -48,5 +48,9 @@ state                          = standby_0.00
 
 [led]
 enable                         = 0
+
+
+[pops]
+pop_1                          = false
 
 
