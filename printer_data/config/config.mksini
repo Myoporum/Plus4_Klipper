@@ -39,11 +39,11 @@ time                           = 13646
 
 
 [device_code]
-value                          = v2snd7yl
+value                          = 9xzxfe5g
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.00
 
 
 [led]
