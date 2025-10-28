@@ -43,7 +43,7 @@ value                          = qqn9nm4t
 
 
 [device_state]
-state                          = printing_0.46
+state                          = complete_1.00
 
 
 [led]
