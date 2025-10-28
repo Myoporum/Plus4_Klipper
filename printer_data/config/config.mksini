@@ -43,7 +43,7 @@ value                          = qqn9nm4t
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_1.00
 
 
 [led]
