@@ -43,7 +43,7 @@ value                          = a7esegma
 
 
 [device_state]
-state                          = standby_1.00
+state                          = standby_0.00
 
 
 [led]
