@@ -43,7 +43,7 @@ value                          = wf48duyq
 
 
 [device_state]
-state                          = printing_0.42
+state                          = standby_0.42
 
 
 [led]
