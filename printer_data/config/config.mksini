@@ -43,7 +43,7 @@ value                          = 7dhjdax2
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_0.00
 
 
 [led]
