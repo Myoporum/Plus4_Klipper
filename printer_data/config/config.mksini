@@ -35,7 +35,7 @@ enable                         = 1
 
 
 [total]
-time                           = 14812
+time                           = 14979
 
 
 [device_code]
@@ -43,7 +43,7 @@ value                          = h5wymfpk
 
 
 [device_state]
-state                          = printing_0.99
+state                          = complete_1.00
 
 
 [led]
