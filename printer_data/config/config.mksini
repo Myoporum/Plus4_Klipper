@@ -43,7 +43,7 @@ value                          = h5wymfpk
 
 
 [device_state]
-state                          = printing_0.62
+state                          = printing_0.63
 
 
 [led]
